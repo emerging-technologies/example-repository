@@ -1,2 +1,2 @@
-# examples-go
-A few basic examples of Go Programs
+# Go Examples
+A few basic examples of Go Programs by Ian McLoughlin
